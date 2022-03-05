@@ -1,4 +1,4 @@
-# NetCoreMicroservicesSample
+# Microservices in .NET Core 3.1 Focusing on clean code
 Example implementing an API with microservices using CQRS pattern, event sourcing, message brokers, etc.
 
 [I've written a short Medium post about this repository](https://medium.com/@robnogales/microservices-using-asp-net-core-dd14396ba9a4)
